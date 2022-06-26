@@ -1,0 +1,31 @@
+name: app_611
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  fluttertoast: ^8.0.9
+  google_fonts: ^3.0.1
+  device_info_plus: ^3.2.4
+  awesome_dialog: ^2.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
